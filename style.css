@@ -41,12 +41,12 @@ body {
 @keyframes heartbeat {
     0%, 100% {
         transform: scale(1) rotate(-45deg);
-        box-shadow: 0 0 100px white;
+        box-shadow: 0 0 170px white;
 
     }
     50% {
-        transform: scale(1.4) rotate(-45deg);
-        box-shadow: 0 0 100px red;
+        transform: scale(1.2) rotate(-45deg);
+        box-shadow: 0 0 140px red;
     }
 }
 
